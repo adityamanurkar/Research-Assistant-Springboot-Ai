@@ -1,37 +1,4 @@
 🤖 Research Assistant – AI-Powered Knowledge Tool
-
-
-
-
-
-
-
-
-
----
-
-Navigation Menu
-
-Sign in
-
-Code
-
-Issues
-
-Pull Requests
-
-Actions
-
-Projects
-
-Wiki
-
-Security
-
-Insights
-
-
-
 ---
 
 🌟 Overview
